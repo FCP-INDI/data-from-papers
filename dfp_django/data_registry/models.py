@@ -8,14 +8,38 @@ from django.db import models
     
 # database table to include the links between data and papers
 #  this is super-unnorm'd maybe this isn't the best way to do it??
-class DataFromPapers(models.Model):
-    paper_cite = models.CharField(max_length=1000)
-    paper_doi = models.CharField(max_length=200)
-    paper_url = models.CharField(max_length=200)
-    study_doi = models.CharField(max_length=200)
-    data_id = models.CharField(max_length=200)
-    data_url = models.CharField(max_length=200)
+
     
+  
+ 
+class Papers(models.Model):
+    cite = models.TextField()
+    doi = models.CharField(max_length=200,unique=True)
+    url = models.URLField(max_length=200)
     
+    def __str__(self):
+        return self.doi
+ 
+
+class Studies(models.Model):
+    doi = models.CharField(max_length=200,unique=True)
+    name = models.CharField(max_length=200)
+    description = models.TextField()
+    url = models.URLField(max_length=200)
+    data_path_template = models.CharField(max_length=200,)
+    
+    def __str__(self):
+        return "%s (%s)"%(self.name,self.doi)
+    
+class Data(models.Model):
+    individual = models.CharField(max_length=200)
+    session = models.CharField(max_length=20)
+    scan_type = models.CharField(max_length=20)
+    url = models.URLField(max_length=200)
+    paper = models.ManyToManyField(Papers)
+    study = models.ForeignKey('Studies')
+      
+    def __str__(self):
+        return "::".join([self.individual,self.session,self.scan_type])
     
     

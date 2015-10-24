@@ -1,0 +1,430 @@
+0136018,6,F,None,group_0
+0118439,9,F,Left,group_0
+0148071,9,F,Right,group_0
+0197570,10,F,Right,group_0
+0103872,11,F,Left,group_0
+0109459,11,M,Right,group_1
+0179454,11,M,Left,group_1
+0199155,11,M,Right,group_1
+0150716,11,M,Right,group_1
+0161513,11,M,Right,group_1
+0130249,13,F,Right,group_2
+0132088,13,F,Right,group_2
+0165660,14,F,Right,group_2
+0157873,15,M,Right,group_2
+0151580,15,M,Right,group_2
+0168013,15,F,Right,group_3
+0152384,15,M,Right,group_3
+0166009,15,M,Right,group_3
+0164326,16,M,Right,group_3
+0112347,17,F,None,group_3
+0179309,17,F,Right,group_4
+0134795,18,M,Right,group_4
+0120538,18,M,Right,group_4
+0174363,18,F,Right,group_4
+0139480,18,M,Right,group_4
+0188199,18,F,Right,group_5
+0158744,18,M,Right,group_5
+0156678,19,M,Right,group_5
+0117168,19,M,Right,group_5
+0122512,19,F,Right,group_5
+0185781,20,F,Right,group_6
+0173085,20,F,Right,group_6
+0158411,20,M,Right,group_6
+0168357,20,F,Right,group_6
+0112249,20,F,Right,group_6
+0123971,20,M,Right,group_7
+0119866,20,M,Right,group_7
+0115454,20,F,Right,group_7
+0162251,20,F,Right,group_7
+0154423,21,F,Right,group_7
+0120652,21,M,Right,group_8
+0179005,21,M,Right,group_8
+0188854,21,M,Left,group_8
+0139300,21,F,Right,group_8
+0199340,22,M,Right,group_8
+0137679,22,M,None,group_9
+0177330,22,F,Right,group_9
+0159429,22,M,Right,group_9
+0180093,22,M,Right,group_9
+0182604,23,M,Right,group_9
+0192197,23,M,None,group_10
+0136303,23,F,Right,group_10
+0116834,23,M,Right,group_10
+0137496,23,F,Right,group_10
+0168239,23,F,Right,group_10
+0146714,23,M,Right,group_11
+0123173,24,F,Right,group_11
+0144667,24,M,None,group_11
+0126919,24,F,None,group_11
+0173496,25,F,Right,group_11
+0103714,25,F,Right,group_12
+0193358,26,M,Right,group_12
+0135671,26,F,Right,group_12
+0168413,26,M,Right,group_12
+0162704,26,F,Right,group_12
+0150525,27,M,Right,group_13
+0141795,27,F,Right,group_13
+0105290,28,M,None,group_13
+0185428,30,F,Right,group_13
+0183726,30,F,Right,group_13
+0137073,30,M,Right,group_14
+0122169,32,M,Right,group_14
+0123657,33,M,Right,group_14
+0198051,34,M,None,group_14
+0131127,34,F,Right,group_14
+0187635,36,F,Right,group_15
+0102157,36,F,Right,group_15
+0116065,37,,Right,group_15
+0178174,37,F,Left,group_15
+0194023,37,F,Right,group_15
+0111282,39,F,None,group_16
+0122816,39,F,Right,group_16
+0118051,39,F,Right,group_16
+0162902,40,F,Right,group_16
+0155458,41,F,Right,group_16
+0109727,41,M,Right,group_17
+0139212,41,F,Right,group_17
+0150589,41,F,None,group_17
+0167827,42,F,Right,group_17
+0155419,42,M,Right,group_17
+0195031,42,F,Right,group_18
+0190501,43,F,Right,group_18
+0123429,43,F,Right,group_18
+0122844,44,F,Right,group_18
+0115824,44,F,Right,group_18
+0158560,44,F,Right,group_19
+0105488,44,M,Right,group_19
+0108355,46,M,Right,group_19
+0189478,46,F,Right,group_19
+0116039,46,F,Left,group_19
+0156263,47,F,Right,group_20
+0116842,47,M,Right,group_20
+0131832,47,M,Right,group_20
+0153114,47,F,Right,group_20
+0132850,48,F,Right,group_20
+0179873,48,F,Right,group_21
+0114232,48,F,Right,group_21
+0178453,49,M,Right,group_21
+0132995,49,F,Right,group_21
+0196651,49,F,Right,group_21
+0106780,49,F,Right,group_22
+0199620,49,F,Right,group_22
+0103645,49,M,Right,group_22
+0164900,49,F,Right,group_22
+0183457,50,M,Right,group_22
+0182376,50,F,Right,group_23
+0185676,51,M,Right,group_23
+0198357,51,F,Right,group_23
+0144702,51,M,None,group_23
+0161200,51,F,Right,group_23
+0115321,51,F,Right,group_24
+0136416,51,F,Right,group_24
+0120557,52,F,Right,group_24
+0197836,53,M,Right,group_24
+0188219,54,F,Right,group_24
+0132717,54,F,Right,group_25
+0146865,54,F,Right,group_25
+0194956,55,F,Right,group_25
+0152968,56,F,Right,group_25
+0173286,56,F,Right,group_25
+0195236,57,M,Left,group_26
+0113013,57,F,Right,group_26
+0168489,57,F,Right,group_26
+0174886,57,F,Right,group_26
+0115564,58,F,Right,group_26
+0112828,58,F,Right,group_27
+0186277,58,F,Right,group_27
+0166987,59,F,Right,group_27
+0177857,59,M,None,group_27
+0198130,59,F,Right,group_27
+0169007,59,M,Right,group_28
+0180308,59,F,Right,group_28
+0147122,60,F,Right,group_28
+0125762,60,F,Right,group_28
+0192736,61,F,Right,group_28
+0153131,61,M,Right,group_29
+0133436,61,F,None,group_29
+0154419,62,F,Right,group_29
+0105521,62,M,Right,group_29
+0149794,62,F,Right,group_29
+0144314,63,F,Right,group_30
+0106057,63,F,Right,group_30
+0190053,63,F,Right,group_30
+0160099,64,F,Right,group_30
+0165532,65,F,Right,group_30
+0197456,65,F,Right,group_31
+0121498,65,M,Right,group_31
+0177681,66,F,Right,group_31
+0157947,66,F,Right,group_31
+0196558,66,F,Right,group_31
+0186697,67,F,Right,group_32
+0188939,67,M,Right,group_32
+0171266,68,F,Left,group_32
+0113030,68,F,Right,group_32
+0181439,69,M,Right,group_32
+0152189,70,F,Right,group_33
+0109819,71,M,None,group_33
+0144495,72,M,Right,group_33
+0163059,73,M,Right,group_33
+0144344,73,M,Right,group_33
+0198985,74,F,Right,group_34
+0179283,75,F,Right,group_34
+0127800,75,M,Right,group_34
+0138558,76,M,Right,group_34
+0127733,76,F,Right,group_34
+0133894,77,M,Left,group_35
+0170363,80,M,Right,group_35
+0137714,81,M,Right,group_35
+0153790,81,F,Right,group_35
+0116415,83,M,Right,group_35
+0141473,84,M,None,group_35Subject ID,Age,Sex,Dominant Hand,Download Group
+
+0113044,12,M,Right,group_0
+
+0164093,12,F,Left,group_0
+
+0161530,13,M,Right,group_0
+
+0181960,14,F,Right,group_0
+
+0164385,15,F,Left,group_0
+
+0181535,16,M,Right,group_1
+
+0142673,21,M,Right,group_1
+
+0163508,21,F,Left,group_1
+
+0186067,22,M,Right,group_1
+
+0150404,24,F,Right,group_1
+
+0163228,25,F,Right,group_2
+
+0173358,26,F,Right,group_2
+
+0166094,44,M,Right,group_2
+
+0171391,46,F,Right,group_2Subject ID,Age,Sex,Dominant Hand,Download Group
+0101084,55,F,Right,group_1
+0106664,37,M,Right,group_1
+0108184,57,M,Right,group_1
+0108781,11,M,Right,group_1
+0110809,55,M,Right,group_1
+0112536,74,M,Right,group_2
+0114008,31,M,Right,group_2
+0115684,64,M,Right,group_2
+0117902,21,F,Right,group_2
+0117964,53,M,Right,group_2
+0119351,55,F,Right,group_3
+0120818,53,F,Right,group_3
+0120859,30,M,Right,group_3
+0121400,57,F,Right,group_3
+0123048,52,F,Right,group_3
+0123116,24,M,Left,group_4
+0124714,12,M,Right,group_4
+0125107,54,F,Right,group_4
+0126369,16,F,Right,group_4
+0127665,18,M,Right,group_4
+0127784,56,F,Right,group_5
+0130424,37,M,Left,group_5
+0130678,52,F,Right,group_5
+0132049,54,F,Right,group_5
+0133646,18,M,Right,group_5
+0134505,20,M,Right,group_6
+0135591,38,M,Right,group_6
+0138497,44,F,Right,group_6
+0139437,55,M,Right,group_6
+0141860,18,M,Right,group_6
+0142609,59,M,Right,group_7
+0143484,41,M,Right,group_7
+0150062,38,F,Right,group_7
+0158726,24,M,Right,group_7
+0160872,31,F,Right,group_7
+0166731,19,M,Right,group_8
+0167693,35,F,Right,group_8
+0168007,13,M,Left,group_8
+0169571,41,F,Right,group_8
+0170636,58,M,Right,group_8
+0172228,49,F,Right,group_9
+0176479,31,F,Right,group_9
+0178964,49,F,Right,group_9
+0184446,60,F,Right,group_9
+0187884,32,M,Right,group_9
+0196198,24,F,Right,group_10"Subject ID",Age,Sex,"Dominant Hand"
+M10900451,66,M,L
+M10901463,69,F,L
+M10901783,49,F,R
+M10902019,72,F,R
+M10903347,71,F,R
+M10903365,27,F,R
+M10903384,66,F,R
+M10903525,47,F,R
+M10905356,62,F,R
+M10906459,85,F,R
+M10908829,50,F,R
+M10908886,42,F,R
+M10910184,72,F,R
+M10910559,71,F,R
+M10911693,77,F,L
+M10913436,21,F,R
+M10914047,45,F,R
+M10914139,49,F,L
+M10914275,23,M,R
+M10914446,69,M,R
+M10916041,65,F,R
+M10917124,28,M,R
+M10917289,12,F,R
+M10917747,21,F,R
+M10919486,76,M,R
+M10920486,68,F,R
+M10920493,83,F,R
+M10921437,16,M,R
+M10924028,65,F,R
+M10927468,60,F,R
+M10927484,37,F,R
+M10928159,79,F,R
+M10929348,59,M,R
+M10931637,57,F,R
+M10934715,49,F,L
+M10936649,72,F,R
+M10939077,58,F,R
+M10939764,66,F,R
+M10942513,55,F,L
+M10942579,50,M,L
+M10943391,74,M,R
+M10943867,23,M,R
+M10944544,57,F,R
+M10945411,48,F,R
+M10949662,21,M,R
+M10950880,50,M,L
+M10951876,61,F,R
+M10952872,27,M,L
+M10952992,20,F,999
+M10953460,78,F,R
+M10953754,70,F,R
+M10954555,26,M,R
+M10955568,45,M,R
+M10955677,70,F,R
+M10956730,59,F,R
+M10956928,60,F,L
+M10957580,999,999,999
+M10960620,52,F,R
+M10964993,24,F,R
+M10966210,48,F,R
+M10967628,50,F,R
+M10969847,60,F,R
+M10970750,26,M,R
+M10971510,22,F,R
+M10975151,83,F,R
+M10975411,62,F,R
+M10976211,25,M,R
+M10976753,68,M,R
+M10976913,33,F,R
+M10977059,42,F,R
+M10981315,50,F,R
+M10982795,13,M,R
+M10983277,53,F,R
+M10987473,58,F,R
+M10988976,42,M,R
+M10989280,52,F,L
+M10989418,29,M,999
+M10990475,77,F,R
+M10991053,66,M,R
+M10992604,19,F,R
+M10993222,32,F,R
+M10994108,71,M,R
+M10996445,25,F,R
+M10996582,59,F,R
+M10997584,18,F,R
+Subject ID,Gender,Handedness,Age, Download Group
+102349,M,R,44, group_1
+102826,M,R,22, group_1
+104642,M,R,56, group_1
+105316,M,L,21, group_1
+105409,M,R,20, group_2
+106639,M,R,23, group_2
+106760,F,L,76, group_2
+108040,F,R,71, group_2
+108258,F,R,18, group_3
+108312,F,R,66, group_3
+108485,F,R,75, group_3
+110591,F,A,46, group_3
+110922,F,R,46, group_4
+112131,F,R,66, group_4
+112586,M,R,22, group_4
+114326,F,R,25, group_4
+114688,M,L,25, group_5
+116011,F,A,23, group_5
+116094,M,A,21, group_5
+117604,F,R,58, group_5
+117893,F,R,61, group_6
+118629,M,L,9, group_6
+119768,F,R,34, group_6
+119947,F,R,27, group_6
+120659,F,R,17, group_7
+123245,F,R,53, group_7
+123711,F,R,46, group_7
+124041,M,R,66, group_7
+125747,F,R,21, group_8
+126720,F,R,47, group_8
+126807,F,L,56, group_8
+126996,F,R,47, group_8
+127209,M,R,21, group_9
+128312,F,R,8, group_9
+129973,F,R,49, group_9
+130716,F,R,57, group_9
+132177,F,A,52, group_10
+133962,F,R,63, group_10
+137131,F,R,22, group_10
+138333,M,A,28, group_10
+138697,F,R,16, group_11
+139874,F,R,45, group_11
+139978,F,R,47, group_11
+140794,F,R,63, group_11
+143434,F,R,75, group_12
+144207,F,L,15, group_12
+145048,F,R,83, group_12
+145213,M,R,66, group_13
+146688,M,A,28, group_13
+149254,M,R,9, group_13
+149447,F,R,49, group_13
+152366,F,R,40, group_14
+157908,M,R,22, group_14
+159209,M,L,51, group_14
+159461,F,R,24, group_14
+160543,F,R,53, group_15
+161348,F,R,19, group_15
+162317,F,L,65, group_15
+162579,M,R,45, group_15
+163768,F,R,43, group_16
+168528,M,R,23, group_16
+170400,M,R,35, group_16
+171044,F,R,46, group_16
+171678,F,R,49, group_17
+172267,F,R,18, group_17
+173814,F,R,60, group_17
+176213,M,R,50, group_17
+180964,M,R,70, group_18
+181179,F,R,20, group_18
+181792,F,R,71, group_18
+182324,F,R,13, group_18
+182386,F,R,81, group_19
+184083,F,R,53, group_19
+185923,F,R,44, group_19
+187724,F,R,45, group_19
+188324,F,R,34, group_20
+188757,F,R,22, group_20
+188762,F,R,16, group_20
+189642,F,R,58, group_20
+192817,F,R,53, group_21
+192869,F,R,49, group_21
+193115,F,R,51, group_21
+194049,M,R,61, group_21
+195873,F,R,44, group_22
+196473,M,R,79, group_22
+197236,F,R,79, group_22
+197698,M,R,8, group_22
+198320,F,R,52, group_23
+199469,F,R,60, group_23
